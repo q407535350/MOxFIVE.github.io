@@ -128,13 +128,6 @@
     </url>
 
     <url>
-        <loc>http://MOxFIVE.xyz/tags/HTML/</loc>
-        <lastmod>2016-03-04T16:55:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://MOxFIVE.xyz/tags/GitHub/</loc>
         <lastmod>2016-03-04T16:55:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -156,15 +149,15 @@
     </url>
 
     <url>
-        <loc>http://MOxFIVE.xyz/tags/jQuery/</loc>
+        <loc>http://MOxFIVE.xyz/tags/HTML/</loc>
         <lastmod>2016-03-04T16:55:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://MOxFIVE.xyz/tags/CSS/</loc>
-        <lastmod>2016-03-06T18:08:22.000Z</lastmod>
+        <loc>http://MOxFIVE.xyz/tags/jQuery/</loc>
+        <lastmod>2016-03-04T16:55:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -178,6 +171,13 @@
 
     <url>
         <loc>http://MOxFIVE.xyz/tags/Markdown/</loc>
+        <lastmod>2016-03-06T18:08:22.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://MOxFIVE.xyz/tags/CSS/</loc>
         <lastmod>2016-03-06T18:08:22.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
