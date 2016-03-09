@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://MOxFIVE.xyz/"/>
-  <updated>2016-03-06T18:08:22.000Z</updated>
+  <updated>2016-03-09T17:02:16.917Z</updated>
   <id>http://MOxFIVE.xyz/</id>
   
   <author>
@@ -20,15 +20,20 @@
     <link href="http://MOxFIVE.xyz/2016/03/04/markdown-table-style/"/>
     <id>http://MOxFIVE.xyz/2016/03/04/markdown-table-style/</id>
     <published>2016-03-04T12:39:17.000Z</published>
-    <updated>2016-03-06T18:08:22.000Z</updated>
+    <updated>2016-03-09T17:02:16.917Z</updated>
     
     <content type="html">&lt;p&gt;　　Markdown 写的表格最终会被解析成 HTML 代码，如果使用的编辑器支持自定义 CSS，就能方便的调整样式。如果可以引入 JavaScript，样式自适应也能较好地实现。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p data-height=&quot;300&quot; data-theme-id=&quot;0&quot; data-slug-hash=&quot;ONyKqb&quot; data-default-tab=&quot;css&quot; data-user=&quot;MOxFIVE&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/MOxFIVE/pen/ONyKqb/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Table style&lt;/a&gt; by MOxFIVE (&lt;a href=&quot;http://codepen.io/MOxFIVE&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;@MOxFIVE&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;script async src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
 
-&lt;h2 id=&quot;样式调整&quot;&gt;&lt;a href=&quot;#样式调整&quot; class=&quot;headerlink&quot; title=&quot;样式调整&quot;&gt;&lt;/a&gt;样式调整&lt;/h2&gt;&lt;h3 id=&quot;基础概念&quot;&gt;&lt;a href=&quot;#基础概念&quot; class=&quot;headerlink&quot; title=&quot;基础概念&quot;&gt;&lt;/a&gt;基础概念&lt;/h3&gt;&lt;figure class=&quot;highlight pf&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;variable&quot;&gt;&amp;lt;table&amp;gt;&lt;/span&gt;: 表格&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;variable&quot;&gt;&amp;lt;thead&amp;gt;&lt;/span&gt;: &lt;span class=&quot;built_in&quot;&gt;table&lt;/span&gt; header 表头区&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;variable&quot;&gt;&amp;lt;th&amp;gt;&lt;/span&gt;: &lt;span class=&quot;built_in&quot;&gt;table&lt;/span&gt; headings 表头单元格内容&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;variable&quot;&gt;&amp;lt;tbody&amp;gt;&lt;/span&gt;: 表格内容区&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;variable&quot;&gt;&amp;lt;tr&amp;gt;&lt;/span&gt;: &lt;span class=&quot;built_in&quot;&gt;table&lt;/span&gt; row 表行&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;variable&quot;&gt;&amp;lt;td&amp;gt;&lt;/span&gt;: &lt;span class=&quot;built_in&quot;&gt;table&lt;/span&gt; data 单元格内容&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h3 id=&quot;基本样式&quot;&gt;&lt;a href=&quot;#基本样式&quot; class=&quot;headerlink&quot; title=&quot;基本样式&quot;&gt;&lt;/a&gt;基本样式&lt;/h3&gt;&lt;figure class=&quot;highlight css&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;15&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;selector-tag&quot;&gt;table&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;attribute&quot;&gt;width&lt;/span&gt;: &lt;span class=&quot;number&quot;&gt;100%&lt;/span&gt;; &lt;span class=&quot;comment&quot;&gt;/*表格宽度*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;attribute&quot;&gt;max-width&lt;/span&gt;: &lt;span class=&quot;number&quot;&gt;65em&lt;/span&gt;; &lt;span class=&quot;comment&quot;&gt;/*表格最大宽度，避免表格过宽*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;attribute&quot;&gt;border&lt;/span&gt;: &lt;span class=&quot;number&quot;&gt;1px&lt;/span&gt; solid &lt;span class=&quot;number&quot;&gt;#dedede&lt;/span&gt;; &lt;span class=&quot;comment&quot;&gt;/*表格外边框设置*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;attribute&quot;&gt;margin&lt;/span&gt;: &lt;span class=&quot;number&quot;&gt;15px&lt;/span&gt; auto; &lt;span class=&quot;comment&quot;&gt;/*外边距*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;attribute&quot;&gt;border-collapse&lt;/span&gt;: collapse; &lt;span class=&quot;comment&quot;&gt;/*使用单一线条的边框*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;attribute&quot;&gt;empty-cells&lt;/span&gt;: show; &lt;span class=&quot;comment&quot;&gt;/*单元格无内容依旧绘制边框*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;selector-tag&quot;&gt;table&lt;/span&gt; &lt;span class=&quot;selector-tag&quot;&gt;th&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;selector-tag&quot;&gt;table&lt;/span&gt; &lt;span class=&quot;selector-tag&quot;&gt;td&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;attribute&quot;&gt;height&lt;/span&gt;: &lt;span class=&quot;number&quot;&gt;35px&lt;/span&gt;; &lt;span class=&quot;comment&quot;&gt;/*统一每一行的默认高度*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;attribute&quot;&gt;border&lt;/span&gt;: &lt;span class=&quot;number&quot;&gt;1px&lt;/span&gt; solid &lt;span class=&quot;number&quot;&gt;#dedede&lt;/span&gt;; &lt;span class=&quot;comment&quot;&gt;/*内部边框样式*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;attribute&quot;&gt;padding&lt;/span&gt;: &lt;span class=&quot;number&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;number&quot;&gt;10px&lt;/span&gt;; &lt;span class=&quot;comment&quot;&gt;/*内边距*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&quot;样式调整&quot;&gt;&lt;a href=&quot;#样式调整&quot; class=&quot;headerlink&quot; title=&quot;样式调整&quot;&gt;&lt;/a&gt;样式调整&lt;/h2&gt;&lt;h3 id=&quot;基础概念&quot;&gt;&lt;a href=&quot;#基础概念&quot; class=&quot;headerlink&quot; title=&quot;基础概念&quot;&gt;&lt;/a&gt;基础概念&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;&amp;lt;table&amp;gt;: 表格
+&amp;lt;thead&amp;gt;: table header 表头区
+&amp;lt;th&amp;gt;: table headings 表头单元格内容
+&amp;lt;tbody&amp;gt;: table body 表格内容区
+&amp;lt;tr&amp;gt;: table row 表行
+&amp;lt;td&amp;gt;: table data 单元格内容
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&quot;基本样式&quot;&gt;&lt;a href=&quot;#基本样式&quot; class=&quot;headerlink&quot; title=&quot;基本样式&quot;&gt;&lt;/a&gt;基本样式&lt;/h3&gt;&lt;figure class=&quot;highlight css&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;15&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;selector-tag&quot;&gt;table&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;attribute&quot;&gt;width&lt;/span&gt;: &lt;span class=&quot;number&quot;&gt;100%&lt;/span&gt;; &lt;span class=&quot;comment&quot;&gt;/*表格宽度*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;attribute&quot;&gt;max-width&lt;/span&gt;: &lt;span class=&quot;number&quot;&gt;65em&lt;/span&gt;; &lt;span class=&quot;comment&quot;&gt;/*表格最大宽度，避免表格过宽*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;attribute&quot;&gt;border&lt;/span&gt;: &lt;span class=&quot;number&quot;&gt;1px&lt;/span&gt; solid &lt;span class=&quot;number&quot;&gt;#dedede&lt;/span&gt;; &lt;span class=&quot;comment&quot;&gt;/*表格外边框设置*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;attribute&quot;&gt;margin&lt;/span&gt;: &lt;span class=&quot;number&quot;&gt;15px&lt;/span&gt; auto; &lt;span class=&quot;comment&quot;&gt;/*外边距*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;attribute&quot;&gt;border-collapse&lt;/span&gt;: collapse; &lt;span class=&quot;comment&quot;&gt;/*使用单一线条的边框*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;attribute&quot;&gt;empty-cells&lt;/span&gt;: show; &lt;span class=&quot;comment&quot;&gt;/*单元格无内容依旧绘制边框*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;selector-tag&quot;&gt;table&lt;/span&gt; &lt;span class=&quot;selector-tag&quot;&gt;th&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;selector-tag&quot;&gt;table&lt;/span&gt; &lt;span class=&quot;selector-tag&quot;&gt;td&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;attribute&quot;&gt;height&lt;/span&gt;: &lt;span class=&quot;number&quot;&gt;35px&lt;/span&gt;; &lt;span class=&quot;comment&quot;&gt;/*统一每一行的默认高度*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;attribute&quot;&gt;border&lt;/span&gt;: &lt;span class=&quot;number&quot;&gt;1px&lt;/span&gt; solid &lt;span class=&quot;number&quot;&gt;#dedede&lt;/span&gt;; &lt;span class=&quot;comment&quot;&gt;/*内部边框样式*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;attribute&quot;&gt;padding&lt;/span&gt;: &lt;span class=&quot;number&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;number&quot;&gt;10px&lt;/span&gt;; &lt;span class=&quot;comment&quot;&gt;/*内边距*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;h3 id=&quot;表头样式&quot;&gt;&lt;a href=&quot;#表头样式&quot; class=&quot;headerlink&quot; title=&quot;表头样式&quot;&gt;&lt;/a&gt;表头样式&lt;/h3&gt;&lt;figure class=&quot;highlight css&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;selector-tag&quot;&gt;table&lt;/span&gt; &lt;span class=&quot;selector-tag&quot;&gt;th&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;attribute&quot;&gt;font-weight&lt;/span&gt;: bold; &lt;span class=&quot;comment&quot;&gt;/*加粗*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;attribute&quot;&gt;text-align&lt;/span&gt;: center &lt;span class=&quot;meta&quot;&gt;!important&lt;/span&gt;; &lt;span class=&quot;comment&quot;&gt;/*内容居中，加上 !important 避免被 Markdown 样式覆盖*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;attribute&quot;&gt;background&lt;/span&gt;: &lt;span class=&quot;built_in&quot;&gt;rgba&lt;/span&gt;(158,188,226,0.2); &lt;span class=&quot;comment&quot;&gt;/*背景色*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;h3 id=&quot;隔行变色&quot;&gt;&lt;a href=&quot;#隔行变色&quot; class=&quot;headerlink&quot; title=&quot;隔行变色&quot;&gt;&lt;/a&gt;隔行变色&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;使用选择器选取复数行设置背景色。一般 Markdown 表格编译后都有 &lt;code&gt;&amp;lt;tbody&amp;gt;&lt;/code&gt; 包裹内容，那下面就相当于从表格第二行开始计数&lt;/li&gt;
@@ -73,11 +78,11 @@
       <category term="术业专攻" scheme="http://MOxFIVE.xyz/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
     
     
+      <category term="CSS" scheme="http://MOxFIVE.xyz/tags/CSS/"/>
+    
       <category term="JavaScript" scheme="http://MOxFIVE.xyz/tags/JavaScript/"/>
     
       <category term="Markdown" scheme="http://MOxFIVE.xyz/tags/Markdown/"/>
-    
-      <category term="CSS" scheme="http://MOxFIVE.xyz/tags/CSS/"/>
     
       <category term="Table" scheme="http://MOxFIVE.xyz/tags/Table/"/>
     
@@ -1918,11 +1923,11 @@
       <category term="术业专攻" scheme="http://MOxFIVE.xyz/categories/%E8%87%AA%E7%94%A8%E7%AC%94%E8%AE%B0/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
     
     
-      <category term="JavaScript" scheme="http://MOxFIVE.xyz/tags/JavaScript/"/>
-    
       <category term="HTML" scheme="http://MOxFIVE.xyz/tags/HTML/"/>
     
       <category term="CSS" scheme="http://MOxFIVE.xyz/tags/CSS/"/>
+    
+      <category term="JavaScript" scheme="http://MOxFIVE.xyz/tags/JavaScript/"/>
     
   </entry>
   
@@ -2191,9 +2196,9 @@
       <category term="术业专攻" scheme="http://MOxFIVE.xyz/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
     
     
-      <category term="Hexo" scheme="http://MOxFIVE.xyz/tags/Hexo/"/>
-    
       <category term="CSS" scheme="http://MOxFIVE.xyz/tags/CSS/"/>
+    
+      <category term="Hexo" scheme="http://MOxFIVE.xyz/tags/Hexo/"/>
     
   </entry>
   
@@ -2303,11 +2308,11 @@
       <category term="术业专攻" scheme="http://MOxFIVE.xyz/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
     
     
-      <category term="Hexo" scheme="http://MOxFIVE.xyz/tags/Hexo/"/>
+      <category term="CSS" scheme="http://MOxFIVE.xyz/tags/CSS/"/>
     
       <category term="JavaScript" scheme="http://MOxFIVE.xyz/tags/JavaScript/"/>
     
-      <category term="CSS" scheme="http://MOxFIVE.xyz/tags/CSS/"/>
+      <category term="Hexo" scheme="http://MOxFIVE.xyz/tags/Hexo/"/>
     
       <category term="多说" scheme="http://MOxFIVE.xyz/tags/%E5%A4%9A%E8%AF%B4/"/>
     

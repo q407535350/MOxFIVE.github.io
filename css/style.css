@@ -587,6 +587,12 @@ a {
   #container .github-text {
     display: none;
   }
+  #container .raw {
+    display: none;
+  }
+  #container .copyright .fa-file-text-o {
+    margin-left: 1em;
+  }
 }
 .header-author {
   text-align: center;
@@ -2064,6 +2070,8 @@ li:hover {
 .article-entry pre code {
   text-shadow: none;
   padding: 0;
+  background: none;
+  color: #999;
 }
 .article-entry .highlight {
   -webkit-border-radius: 2px;
