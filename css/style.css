@@ -1472,11 +1472,6 @@ body .ui-tooltip {
   padding-bottom: 5px;
   border-bottom: 1px solid #ddd;
 }
-.article-entry h4:hover,
-.article-entry h5:hover,
-.article-entry h6:hover {
-  color: #88acdb;
-}
 .article-entry video {
   max-width: 100%;
 }
