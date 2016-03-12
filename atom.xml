@@ -78,11 +78,11 @@
       <category term="术业专攻" scheme="http://MOxFIVE.xyz/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
     
     
+      <category term="CSS" scheme="http://MOxFIVE.xyz/tags/CSS/"/>
+    
       <category term="JavaScript" scheme="http://MOxFIVE.xyz/tags/JavaScript/"/>
     
       <category term="Markdown" scheme="http://MOxFIVE.xyz/tags/Markdown/"/>
-    
-      <category term="CSS" scheme="http://MOxFIVE.xyz/tags/CSS/"/>
     
       <category term="Table" scheme="http://MOxFIVE.xyz/tags/Table/"/>
     
@@ -1923,11 +1923,11 @@
       <category term="术业专攻" scheme="http://MOxFIVE.xyz/categories/%E8%87%AA%E7%94%A8%E7%AC%94%E8%AE%B0/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
     
     
-      <category term="JavaScript" scheme="http://MOxFIVE.xyz/tags/JavaScript/"/>
-    
       <category term="HTML" scheme="http://MOxFIVE.xyz/tags/HTML/"/>
     
       <category term="CSS" scheme="http://MOxFIVE.xyz/tags/CSS/"/>
+    
+      <category term="JavaScript" scheme="http://MOxFIVE.xyz/tags/JavaScript/"/>
     
   </entry>
   
@@ -2196,9 +2196,9 @@
       <category term="术业专攻" scheme="http://MOxFIVE.xyz/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
     
     
-      <category term="Hexo" scheme="http://MOxFIVE.xyz/tags/Hexo/"/>
-    
       <category term="CSS" scheme="http://MOxFIVE.xyz/tags/CSS/"/>
+    
+      <category term="Hexo" scheme="http://MOxFIVE.xyz/tags/Hexo/"/>
     
   </entry>
   
@@ -2308,11 +2308,11 @@
       <category term="术业专攻" scheme="http://MOxFIVE.xyz/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
     
     
-      <category term="Hexo" scheme="http://MOxFIVE.xyz/tags/Hexo/"/>
+      <category term="CSS" scheme="http://MOxFIVE.xyz/tags/CSS/"/>
     
       <category term="JavaScript" scheme="http://MOxFIVE.xyz/tags/JavaScript/"/>
     
-      <category term="CSS" scheme="http://MOxFIVE.xyz/tags/CSS/"/>
+      <category term="Hexo" scheme="http://MOxFIVE.xyz/tags/Hexo/"/>
     
       <category term="多说" scheme="http://MOxFIVE.xyz/tags/%E5%A4%9A%E8%AF%B4/"/>
     
