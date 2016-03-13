@@ -78,11 +78,11 @@
       <category term="术业专攻" scheme="http://MOxFIVE.xyz/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
     
     
-      <category term="CSS" scheme="http://MOxFIVE.xyz/tags/CSS/"/>
-    
       <category term="JavaScript" scheme="http://MOxFIVE.xyz/tags/JavaScript/"/>
     
       <category term="Markdown" scheme="http://MOxFIVE.xyz/tags/Markdown/"/>
+    
+      <category term="CSS" scheme="http://MOxFIVE.xyz/tags/CSS/"/>
     
       <category term="Table" scheme="http://MOxFIVE.xyz/tags/Table/"/>
     
@@ -1461,7 +1461,7 @@
     <link href="http://MOxFIVE.xyz/2015/11/30/sublime-config/"/>
     <id>http://MOxFIVE.xyz/2015/11/30/sublime-config/</id>
     <published>2015-11-30T13:07:38.000Z</published>
-    <updated>2016-01-19T19:09:31.000Z</updated>
+    <updated>2016-03-13T15:43:02.202Z</updated>
     
     <content type="html">&lt;p&gt;　　记录安装配置 Sublime 的过程，同时列出所用到的插件，方便自己在新系统新电脑上快速用上熟悉的 Sublime。 &lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -1471,7 +1471,7 @@
 &lt;h3 id=&quot;用户设置&quot;&gt;&lt;a href=&quot;#用户设置&quot; class=&quot;headerlink&quot; title=&quot;用户设置&quot;&gt;&lt;/a&gt;用户设置&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;code&gt;Preferences/Settings - User&lt;/code&gt;，设置字体为 &lt;a href=&quot;http://pan.baidu.com/s/1mglgkSK&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Consolas 雅黑混合体&lt;/a&gt; yx5g，字号11，tab 转空格，显示空格和制表符。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;string&quot;&gt;&quot;font_face&quot;&lt;/span&gt;: &lt;span class=&quot;string&quot;&gt;&quot;Yahei Consolas Hybrid&quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;string&quot;&gt;&quot;font_size&quot;&lt;/span&gt;: 11,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;string&quot;&gt;&quot;translate_tabs_to_spaces&quot;&lt;/span&gt;: &lt;span class=&quot;literal&quot;&gt;true&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;string&quot;&gt;&quot;draw_white_space&quot;&lt;/span&gt;: &lt;span class=&quot;string&quot;&gt;&quot;all&quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight actionscript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;string&quot;&gt;&quot;font_face&quot;&lt;/span&gt;: &lt;span class=&quot;string&quot;&gt;&quot;Yahei Consolas Hybrid&quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;string&quot;&gt;&quot;font_size&quot;&lt;/span&gt;: &lt;span class=&quot;number&quot;&gt;11&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;string&quot;&gt;&quot;translate_tabs_to_spaces&quot;&lt;/span&gt;: &lt;span class=&quot;literal&quot;&gt;true&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;string&quot;&gt;&quot;draw_white_space&quot;&lt;/span&gt;: &lt;span class=&quot;string&quot;&gt;&quot;all&quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;/*统一使用 UTF-8 编码和 UNIX 风格的换行符(LF, 0x0A)*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;string&quot;&gt;&quot;default_line_ending&quot;&lt;/span&gt;: &lt;span class=&quot;string&quot;&gt;&quot;unix&quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;string&quot;&gt;&quot;default_encoding&quot;&lt;/span&gt;: &lt;span class=&quot;string&quot;&gt;&quot;UTF-8&quot;&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;blockquote&gt;
 &lt;p&gt;其他设置参考 &lt;code&gt;Preferences/Settings - Default&lt;/code&gt;。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1531,6 +1531,15 @@
 &lt;/ul&gt;
 &lt;h3 id=&quot;Stylus-Clean-Completions&quot;&gt;&lt;a href=&quot;#Stylus-Clean-Completions&quot; class=&quot;headerlink&quot; title=&quot;Stylus Clean Completions&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://packagecontrol.io/packages/Stylus%20Clean%20Completions&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Stylus Clean Completions&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Stylus 代码自动补全。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;AutoFileName&quot;&gt;&lt;a href=&quot;#AutoFileName&quot; class=&quot;headerlink&quot; title=&quot;AutoFileName&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://packagecontrol.io/packages/AutoFileName&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;AutoFileName&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;文件名自动补全。&lt;br&gt;&lt;img src=&quot;/resources/autofilename.png&quot; alt=&quot;AutoFileName&quot;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;Can-I-Use&quot;&gt;&lt;a href=&quot;#Can-I-Use&quot; class=&quot;headerlink&quot; title=&quot;Can I Use&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://packagecontrol.io/packages/Can%20I%20Use&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Can I Use&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://caniuse.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://caniuse.com/&lt;/a&gt; 的插件版，快速查询 HTML, CSS 等前端技术的浏览器兼容性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;BracketHighlighter&quot;&gt;&lt;a href=&quot;#BracketHighlighter&quot; class=&quot;headerlink&quot; title=&quot;BracketHighlighter&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://packagecontrol.io/packages/BracketHighlighter&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;BracketHighlighter&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;调整各类括号匹配的高亮样式&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&quot;To-be-added&quot;&gt;&lt;a href=&quot;#To-be-added&quot; class=&quot;headerlink&quot; title=&quot;To be added&quot;&gt;&lt;/a&gt;To be added&lt;/h3&gt;&lt;h2 id=&quot;相关链接&quot;&gt;&lt;a href=&quot;#相关链接&quot; class=&quot;headerlink&quot; title=&quot;相关链接&quot;&gt;&lt;/a&gt;相关链接&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Package Control&lt;/strong&gt;: &lt;a href=&quot;https://packagecontrol.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://packagecontrol.io/&lt;/a&gt;&lt;/li&gt;
@@ -1923,11 +1932,11 @@
       <category term="术业专攻" scheme="http://MOxFIVE.xyz/categories/%E8%87%AA%E7%94%A8%E7%AC%94%E8%AE%B0/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
     
     
+      <category term="JavaScript" scheme="http://MOxFIVE.xyz/tags/JavaScript/"/>
+    
       <category term="HTML" scheme="http://MOxFIVE.xyz/tags/HTML/"/>
     
       <category term="CSS" scheme="http://MOxFIVE.xyz/tags/CSS/"/>
-    
-      <category term="JavaScript" scheme="http://MOxFIVE.xyz/tags/JavaScript/"/>
     
   </entry>
   
@@ -2196,9 +2205,9 @@
       <category term="术业专攻" scheme="http://MOxFIVE.xyz/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
     
     
-      <category term="CSS" scheme="http://MOxFIVE.xyz/tags/CSS/"/>
-    
       <category term="Hexo" scheme="http://MOxFIVE.xyz/tags/Hexo/"/>
+    
+      <category term="CSS" scheme="http://MOxFIVE.xyz/tags/CSS/"/>
     
   </entry>
   
@@ -2308,11 +2317,11 @@
       <category term="术业专攻" scheme="http://MOxFIVE.xyz/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
     
     
-      <category term="CSS" scheme="http://MOxFIVE.xyz/tags/CSS/"/>
+      <category term="Hexo" scheme="http://MOxFIVE.xyz/tags/Hexo/"/>
     
       <category term="JavaScript" scheme="http://MOxFIVE.xyz/tags/JavaScript/"/>
     
-      <category term="Hexo" scheme="http://MOxFIVE.xyz/tags/Hexo/"/>
+      <category term="CSS" scheme="http://MOxFIVE.xyz/tags/CSS/"/>
     
       <category term="多说" scheme="http://MOxFIVE.xyz/tags/%E5%A4%9A%E8%AF%B4/"/>
     
