@@ -248,6 +248,7 @@ a {
   -ms-transition: all 0.2s ease-in;
   transition: all 0.2s ease-in;
   height: 100%;
+  overflow-y: auto;
 }
 #container .left-col .overlay {
   width: 100%;
@@ -735,7 +736,7 @@ a {
   position: relative;
   width: 100%;
   overflow: hidden;
-  min-height: 500px;
+  min-height: 260px;
   font-size: 14px;
 }
 #header .switch-area .switch-wrap {
