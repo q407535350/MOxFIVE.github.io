@@ -114,62 +114,6 @@
     </url>
 
     <url>
-        <loc>http://MOxFIVE.xyz/tags/GitHub/</loc>
-        <lastmod>2016-03-16T18:15:32.920Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://MOxFIVE.xyz/tags/Hexo/</loc>
-        <lastmod>2016-03-16T18:15:32.920Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://MOxFIVE.xyz/tags/WordPress/</loc>
-        <lastmod>2016-03-16T18:15:32.920Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://MOxFIVE.xyz/tags/JavaScript/</loc>
-        <lastmod>2016-03-16T18:15:32.920Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://MOxFIVE.xyz/tags/Markdown/</loc>
-        <lastmod>2016-03-16T18:15:32.920Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://MOxFIVE.xyz/tags/HTML/</loc>
-        <lastmod>2016-03-16T18:15:32.920Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://MOxFIVE.xyz/tags/CSS/</loc>
-        <lastmod>2016-03-16T18:15:32.920Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://MOxFIVE.xyz/tags/jQuery/</loc>
-        <lastmod>2016-03-16T18:15:32.920Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://MOxFIVE.xyz/tags/Windows/</loc>
         <lastmod>2016-03-17T15:58:48.615Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -186,6 +130,62 @@
     <url>
         <loc>http://MOxFIVE.xyz/tags/Software/</loc>
         <lastmod>2016-03-17T15:58:48.615Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://MOxFIVE.xyz/tags/GitHub/</loc>
+        <lastmod>2016-03-19T17:03:44.335Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://MOxFIVE.xyz/tags/Hexo/</loc>
+        <lastmod>2016-03-19T17:03:44.335Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://MOxFIVE.xyz/tags/WordPress/</loc>
+        <lastmod>2016-03-19T17:03:44.335Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://MOxFIVE.xyz/tags/JavaScript/</loc>
+        <lastmod>2016-03-19T17:03:44.335Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://MOxFIVE.xyz/tags/Markdown/</loc>
+        <lastmod>2016-03-19T17:03:44.335Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://MOxFIVE.xyz/tags/HTML/</loc>
+        <lastmod>2016-03-19T17:03:44.335Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://MOxFIVE.xyz/tags/CSS/</loc>
+        <lastmod>2016-03-19T17:03:44.335Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://MOxFIVE.xyz/tags/jQuery/</loc>
+        <lastmod>2016-03-19T17:03:44.335Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
