@@ -336,9 +336,6 @@ a {
     padding-top: 10px;
     border: none;
   }
-  #container .article-more-link a {
-    float: right;
-  }
   #container #viewer-box .viewer-box-l {
     font-size: 14px;
   }
